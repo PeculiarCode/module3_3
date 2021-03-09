@@ -1,0 +1,27 @@
+{
+  "name": "peculiarApp",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxt/typescript-runtime": "^2.0.1",
+    "@nuxtjs/style-resources": "^1.0.0",
+    "ant-design-vue": "^1.7.2",
+    "axios": "^0.21.1",
+    "cookieparser": "^0.1.0",
+    "core-js": "^3.8.3",
+    "js-cookie": "^2.2.1",
+    "node-sass": "^5.0.0",
+    "nuxt": "^2.14.12",
+    "sass-loader": "10.1.1"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.14.12",
+    "@nuxt/typescript-build": "^2.0.4"
+  }
+}

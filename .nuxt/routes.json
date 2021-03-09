@@ -1,0 +1,44 @@
+[
+  {
+    "name": "article",
+    "path": "/article",
+    "component": "D:\\\\peculiar\\\\lagou\\\\module\\\\realworld\\\\pages\\\\article.vue",
+    "chunkName": "pages/article",
+    "_name": "_c40eab4a"
+  },
+  {
+    "name": "person",
+    "path": "/person",
+    "component": "D:\\\\peculiar\\\\lagou\\\\module\\\\realworld\\\\pages\\\\person.vue",
+    "chunkName": "pages/person",
+    "_name": "_7e7d9800"
+  },
+  {
+    "name": "setting",
+    "path": "/setting",
+    "component": "D:\\\\peculiar\\\\lagou\\\\module\\\\realworld\\\\pages\\\\setting.vue",
+    "chunkName": "pages/setting",
+    "_name": "_65eaaeb5"
+  },
+  {
+    "name": "sign",
+    "path": "/sign",
+    "component": "D:\\\\peculiar\\\\lagou\\\\module\\\\realworld\\\\pages\\\\sign.vue",
+    "chunkName": "pages/sign",
+    "_name": "_3e446f28"
+  },
+  {
+    "name": "slug",
+    "path": "/slug",
+    "component": "D:\\\\peculiar\\\\lagou\\\\module\\\\realworld\\\\pages\\\\slug.vue",
+    "chunkName": "pages/slug",
+    "_name": "_170f55d4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\peculiar\\\\lagou\\\\module\\\\realworld\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1ce6c777"
+  }
+]
